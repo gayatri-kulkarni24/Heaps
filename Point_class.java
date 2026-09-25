@@ -1,3 +1,4 @@
+//this is point class which implementing the comparable interface
 static class Point implements Comparable<Point>{
         int x;
         int y;
