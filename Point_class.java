@@ -14,4 +14,4 @@ static class Point implements Comparable<Point>{
         public int compareTo(Point p2){
             return this.distSq-p2.distSq;
         }
-    }
+}
